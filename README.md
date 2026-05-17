@@ -27,6 +27,10 @@ Computer Science student at Colorado State University specializing in Network an
 * Developed a robust series of programmatic solutions focusing on core data structures, advanced memory management, and clean object-oriented design principles.
 * Gained extensive experience utilizing professional debugging, refactoring, and automated testing frameworks (JUnit).
 
+### Low-Level Systems Programming in C++ (CSU CT301)
+* Developed performance-focused applications utilizing C++ to understand low-level system interactions, runtime execution mechanics, and strict execution efficiency.
+* **Core Mechanisms:** Gained extensive hands-on experience with manual memory management, explicit pointer manipulation, dynamic memory allocation (`new`/`delete`), and avoiding memory leaks.
+* **System Engineering & Compilation:** Designed modular codebases across clean header (`.h`) and implementation (`.cpp`) structures, managing automated compilation pipelines via custom **Makefiles** and the **GCC/G++** compiler toolchain.
 ---
 
 ## Engineering & Automation Hobbies
