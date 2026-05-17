@@ -29,7 +29,7 @@ Computer Science student at Colorado State University specializing in Network an
 
 ---
 
-## 🔧 Engineering & Automation Hobbies
+## Engineering & Automation Hobbies
 
 ### 3D Design, Printing & Hardware Customization
 * Operate and maintain high-volume 3D printing equipment, including heavily modified Sovol SV06 Plus and SV08 platforms.
