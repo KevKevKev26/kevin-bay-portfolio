@@ -32,5 +32,6 @@ Computer Science student at Colorado State University specializing in Network an
 ## Engineering & Automation Hobbies
 
 ### 3D Design, Printing & Hardware Customization
-* Operate and maintain high-volume 3D printing equipment, including heavily modified Sovol SV06 Plus and SV08 platforms.
+* Operate and maintain high-volume 3D printing equipment, including a heavily modified Sovol SV06 Plus.
+* Deployed and configured a Klipper firmware environment to optimize kinematics, enable macro-driven automation, and unlock granular micro-stepping control for superior surface finish quality.
 * Engineered custom hardware upgrades, including designing and wiring a custom 110mm cooling fan array to maximize print stability and thermal performance.
